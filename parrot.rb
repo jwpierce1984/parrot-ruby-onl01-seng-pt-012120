@@ -4,3 +4,7 @@ def parrot (y="Squawk")
   puts "#{y}!"
   return "#{y}!"
 end
+
+parrot
+
+parrot("Squawk")
