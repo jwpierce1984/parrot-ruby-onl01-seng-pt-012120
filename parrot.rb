@@ -7,4 +7,4 @@ end
 
 parrot
 
-parrot("Hello")
+parrot(Hello)
