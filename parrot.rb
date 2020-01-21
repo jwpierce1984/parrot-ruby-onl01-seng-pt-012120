@@ -7,4 +7,4 @@ end
 
 parrot
 
-parrot(boo)
+parrot(Pretty bird)
